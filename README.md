@@ -1,0 +1,2 @@
+# startingjs
+JavaScript Linkedin learning 
